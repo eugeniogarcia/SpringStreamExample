@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: drinking-from-the-stream
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Eugenio
+Implementation-Vendor-Id: com.thehecklers
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/drinking-from-the-stream
+Created-By: Maven Integration for Eclipse
+
